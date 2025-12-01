@@ -162,7 +162,7 @@ Step 3: Download the final report:
 autonomous_analysis_YYYYMMDD_HHMMSS.json
 
 📁 Folder Structure (Recommended)
-.
+'''text
 ├── agents/
 │   ├── dataset_intelligence.py
 │   ├── problem_detection.py
@@ -180,6 +180,7 @@ autonomous_analysis_YYYYMMDD_HHMMSS.json
 │   └── final_report.json
 ├── piyushfinale_google.py       # Main pipeline file
 └── README.md
+'''
 
 ⭐ Features Highlight
 
