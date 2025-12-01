@@ -9,7 +9,7 @@ Original file is located at
 
 !pip install google-generativeai pandas numpy rich
 
-from google.colab import userdata, files
+import userdata, files
 import google.generativeai as genai
 import pandas as pd
 import numpy as np
