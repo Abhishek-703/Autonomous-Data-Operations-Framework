@@ -162,7 +162,7 @@ Step 3: Download the final report
 
 📁 Folder Structure (Recommended)
 
-'''text
+
 ├── agents/
 │   ├── dataset_intelligence.py
 │   ├── problem_detection.py
@@ -180,10 +180,6 @@ Step 3: Download the final report
 │   └── final_report.json
 ├── piyushfinale_google.py       # Main pipeline file
 └── README.md
-'''
-
-
-
 
 ⭐ Features Highlight
 
