@@ -158,10 +158,10 @@ Visualization
 
 JSON report generation
 
-Step 3: Download the final report:
-autonomous_analysis_YYYYMMDD_HHMMSS.json
+Step 3: Download the final report
 
 📁 Folder Structure (Recommended)
+
 '''text
 ├── agents/
 │   ├── dataset_intelligence.py
@@ -181,6 +181,7 @@ autonomous_analysis_YYYYMMDD_HHMMSS.json
 ├── piyushfinale_google.py       # Main pipeline file
 └── README.md
 '''
+
 
 ⭐ Features Highlight
 
